@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **None.**
 
-- 💻 Languages I want to learn: (C, C#, Python, and I want to learn Unity and Unreal Engine.)
+- 💻 Languages I want to learn: **(C, C#, Python, and I want to learn Unity and Unreal Engine.)**
 
 - 💬 Ask me about **you want.**
 
