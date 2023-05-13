@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **This is my Discord: Roberto744#1360**
 
-- 🌍 Languages **Spanish native, and English.**
+- 🌍 Languages **native Spanish, and English.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
