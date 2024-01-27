@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **you want.**
 
-- 📫 How to reach me **This is my Discord: Roberto744#1360**
+- 📫 How to reach me **This is my Discord: roberto744_**
 
 - 🌍 Languages **native Spanish, and English.**
 
