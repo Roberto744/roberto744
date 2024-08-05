@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **None.**
 
-- 🌱 I’m currently learning **CS50.**
+- 🌱 I’m currently learning **None.**
 
 - 👯 I’m looking to collaborate on **None.**
 
