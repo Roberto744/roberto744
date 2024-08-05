@@ -6,11 +6,7 @@
 
 - 🔭 I’m currently working on **None.**
 
-- 🌱 I’m currently learning **None.**
-
-- 👯 I’m looking to collaborate on **None.**
-
-- 🤝 I’m looking for help with **None.**
+- 🌱 I’m currently learning **Microcomputer systems and networks (Microcomputer systems and networks)**
 
 - 💻 Languages I want to learn: **(C, C#, Python, and I want to learn Unity and Unreal Engine.)**
 
