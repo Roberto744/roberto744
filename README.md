@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **None.**
 
-- 🌱 I’m currently learning **Microcomputer systems and networks (Microcomputer systems and networks)**
+- 🌱 I’m currently learning **Microcomputer systems and networks (SMR)**
 
 - 💻 Languages I want to learn: **(C, C#, Python, and I want to learn Unity and Unreal Engine.)**
 
